@@ -10,4 +10,4 @@ app.listen(3000, function () {
 })
 
 console.log("server.js");
-console.log("version1");
+console.log("version2");
